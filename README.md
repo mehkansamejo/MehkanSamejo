@@ -1,63 +1,115 @@
-<h1 align="center">Hi 👋, I am Mehkan</h1>
-<h3 align="center">Computer Science Student • Lifelong Learner</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MEHKAN%20SAMEJO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AC1F5&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+Projects+%F0%9F%9A%80;Open+to+Internship+Opportunities+%E2%9C%A8)]()
+
+</div>
+
+---
+
+## 〔 01 〕 — WHO AM I?
+
+```python
+class MehkanSamejo:
+    def __init__(self):
+        self.name       = "Mehkan Samejo"
+        self.role       = "Full-Stack Developer"
+        self.location   = "Sukkur, Pakistan"
+        self.education  = "BS Computer Science @ IBA Sukkur"
+        self.email      = "samjomehkan@gmail.com"
+
+    @property
+    def currently(self):
+        return [
+            "🔨 Building Web Projects",
+            "🌐 Mastering HTML, CSS & JavaScript",
+            "🧠 Exploring AI & Machine Learning",
+            "📘 Strengthening OOP with C++ & Java",
+        ]
+
+    @property
+    def ask_me_about(self):
+        return ["Web Development", "JavaScript", "OOP", "AI/ML", "C++"]
+
+    def __str__(self):
+        return "Learning by building, growing by coding."
+```
+
+---
+
+## 〔 02 〕 — TECH ARSENAL
+
+<div align="center">
+
+### ⚙️ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 AI & Concepts
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=codeforces&logoColor=white)
+
+### 🎨 Frontend
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 〔 03 〕 — GITHUB STATS
 
 <p align="center">
-Building software, exploring AI, and continuously improving my skills through real-world projects.
+  <img src="https://github-readme-stats.vercel.app/api?username=mehkansamejo&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkansamejo&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehkansamejo&theme=radical&hide_border=true" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehkansamejo&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Science student at **Sukkur IBA University**
-- 📍 Based in **Mirpur Mathelo, Pakistan**
-- 💻 Passionate about Web Development, Software Engineering, and AI
-- 🌱 Currently learning **Full Stack Development** and modern development tools
-- 🔨 Building projects that solve real-world problems
-- 📚 Always exploring new technologies and improving my problem-solving skills
-- 🎯 Goal: Become a skilled software engineer and contribute to impactful technology
-- 📫 Reach me at: **mehkansamejo.bscsf24@iba-suk.edu.pk**
-- 🔗 LinkedIn: **[in/mehkan-abdulfatah](https://www.linkedin.com/in/mehkan-abdulfatah-3895013a8/)**
+## 〔 04 〕 — CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehkan-abdulfatah-3895013a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mehkansamejo2025/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:samjomehkan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-#### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
 
-#### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💫 Thank You for Visiting! 💫
 
-#### ⚙️ Backend & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+for+Stopping+By!+%F0%9F%98%8A;Don't+Forget+to+%E2%AD%90+Star+My+Repos!;Let's+Connect+and+Build+Something+Cool!+%F0%9F%9A%80;See+You+Around!+%F0%9F%91%8B)]()
 
-#### 🧠 Problem Solving
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C3483?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visitor Count](https://profile-counter.glitch.me/mehkansamejo/count.svg)
 
----
-
-### 📂 Featured Projects
-- **[MehkanSamejo](https://github.com/mehkansamejo/MehkanSamejo)** — Java-based project.
-- **[LibraryManagementSystem](https://github.com/mehkansamejo/LibraryManagementSystem)** — A system to manage library records and operations.
-- **[Student-Performance](https://github.com/mehkansamejo/Student-Performance)** — Project focused on tracking and analyzing student performance data.
-- **[lab-agile-planning](https://github.com/mehkansamejo/lab-agile-planning)** — Repository for agile planning practices and exercises.
-- **[AgilePlaningLab](https://github.com/mehkansamejo/AgilePlaningLab)** — Agile planning lab work.
-
-
-
-
-### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehkan-abdulfatah-3895013a8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehkansamejo.bscsf24@iba-suk.edu.pk)
+</div>
