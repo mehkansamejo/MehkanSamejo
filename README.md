@@ -113,3 +113,4 @@ class MehkanSamejo:
 ![Visitor Count](https://profile-counter.glitch.me/mehkansamejo/count.svg)
 
 </div>
+💡 Turning ideas into code, one line at a time.
