@@ -115,4 +115,4 @@ class MehkanSamejo:
 </div>
 💡 Turning ideas into code, one line at a time.
       ✨ Consistency beats perfection.
-... lo jo last mai koi than khai wp wo deleltkrk kuch axcau s add ko
+
