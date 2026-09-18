@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MEHKAN%20SAMEJO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
-  <img src="assets/profile.jpg" width="160" style="border-radius:50%;border:4px solid #2AC1F5;" alt="Mehkan Samejo"/>
+  <img src="assets/profile-frame.svg" width="220" alt="Mehkan Samejo"/>
 </div>
 
 <div align="center">
