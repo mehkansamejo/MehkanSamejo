@@ -115,4 +115,3 @@ class MehkanSamejo:
 </div>
 💡 Turning ideas into code, one line at a time.
       ✨ Consistency beats perfection.
-
